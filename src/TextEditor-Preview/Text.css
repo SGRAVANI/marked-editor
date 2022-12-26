@@ -1,0 +1,72 @@
+.editor-window{
+    /* position: abso; */
+    margin: 0 auto;
+    width: 50%;
+}
+#preview-wrapper{
+    margin: 20px auto;
+    width: 70%;
+}
+.editor-title-left{
+    display: inline-block;
+    font-family: "Russo One",serif;
+}
+.editor-title-left i{
+    font-size: 1.2rem;
+}
+.compress-icon{
+    background-color: #4aa1a1;
+    color:black;
+    margin-right:10px;
+    font-size: 1rem;
+}
+.compress-icon:hover{
+    color: #57e2b1;
+    cursor: pointer;
+    font-size: 1rem;
+}
+.editor-title{
+    background-color: #4aa1a1;
+    color:black;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.3rem;
+    border: 1px solid #1d2f2f;
+    box-shadow: 1px 1px 10px 2px #3a5f5f;
+    
+    font-size: 1rem;
+}
+#editor{
+    display: inline-block;
+    width: 100%;
+    overflow: scroll;
+    min-height: 200px;
+    margin-bottom: -5px;
+    resize: vertical;
+    outline: none;
+    padding-left: 5px;
+    padding-top: 5px;
+    font-size: 0.875rem;
+    background-color: #c0d8d8;
+    border: 1px solid #1d2f2f;
+    box-shadow: 1px 1px 10px 2px #3a5f5f;
+    border-top: none;
+  
+}
+#preview{
+    display: inline-block;
+    width: 100%;
+    overflow: scroll;
+    min-height: 200px;
+    margin-bottom: -5px;
+    resize: vertical;
+    outline: none;
+    padding-left: 5px;
+    padding-top: 5px;
+    font-size: 0.875rem;
+    background-color: #c0d8d8;
+    border: 1px solid #1d2f2f;
+    box-shadow: 1px 1px 10px 2px #3a5f5f;
+    border-top: none;
+    height:150px;
+}
