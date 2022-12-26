@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marked-editor/static/css/main.066508ff.css",
+    "main.js": "/marked-editor/static/js/main.df497ed4.js",
+    "static/js/787.49515d06.chunk.js": "/marked-editor/static/js/787.49515d06.chunk.js",
+    "index.html": "/marked-editor/index.html",
+    "main.066508ff.css.map": "/marked-editor/static/css/main.066508ff.css.map",
+    "main.df497ed4.js.map": "/marked-editor/static/js/main.df497ed4.js.map",
+    "787.49515d06.chunk.js.map": "/marked-editor/static/js/787.49515d06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.066508ff.css",
+    "static/js/main.df497ed4.js"
+  ]
+}
